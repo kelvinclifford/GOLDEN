@@ -1,0 +1,17 @@
+.slide-img{
+    height:350px;
+    object-fit:cover;
+}
+
+.room-img{
+    height:250px;
+    object-fit:cover;
+}
+
+.carousel-caption{
+    background: rgba(0,0,0,0.35);
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+footer p{margin:0}
